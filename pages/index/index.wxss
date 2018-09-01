@@ -1,0 +1,46 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.explain {
+  margin-top: 30px;
+}
+
+.picker {
+  font-size: 27px;
+}
+
+.shareButton {
+
+  margin-top: 40px;
+  margin-left:25%;
+  width: 50%;
+  background-color: 	DarkOrange;
+  color: #FFF;
+}
+
+.contactButton {
+
+  margin-top: 40px;
+  margin-left:30px;
+  float:right;
+}
+
+.section {
+  border: 1px solid black;
+  height: 50%px;
+  width: 100%px;
+  padding: 10px;
+  background: #5A5AAD;
+  color: white;
+}

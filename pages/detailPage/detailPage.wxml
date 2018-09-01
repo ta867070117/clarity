@@ -1,0 +1,12 @@
+<!--pages/detailPage/detailPage.wxml-->
+
+
+<view  class='fontAdjust'><text>1、将透明头像保存至手机里，长按图片或是右键保存透明头像发送手机都可以，以下是透明头像；</text></view>
+<image class='imageWidth' bindtap="previewImage" src="../image/2.jpg"></image>
+<view class='fontAdjust'><text >2、最重要的步骤来临，当我们要保存黑色头像的同时，要多次选择放大图片，将手指在黑色区域方法，已中心为原点，往两边扩散，放大图片神马的大家应该是知道的吧！将图片多放大几次再点击选取；</text></view>
+<image  class='imageWidth' src="../image/5.jpg"></image>
+<view class='fontAdjust'><text >3、这个时候微信透明头像也就出现啦，是不是高大上且富有个性呢！</text></view>
+<image  class='imageWidth' src="../image/3.png"></image>
+<view  class='fontAdjust'><text>3、这个时候微信透明头像也就出现啦，是不是高大上且富有个性呢！</text></view>
+<view  class='fontAdjust'><text>4、抖音教程明天会更新，小伙伴们请耐心等待哟</text></view>
+

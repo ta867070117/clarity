@@ -1,0 +1,12 @@
+/* pages/detailPage/detailPage.wxss */
+
+.imageWidth {
+  width: 100%;
+  height: 300px;
+}
+
+.fontAdjust {
+  font-size: 20px;
+  padding: 15px;
+  display: block;
+}

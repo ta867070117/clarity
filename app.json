@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/detailPage/detailPage"
+  ],
+  "window": {
+    "backgroundTextStyle": "red",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "透明头像吧",
+    "navigationBarTextStyle": "black"
+  }
+}

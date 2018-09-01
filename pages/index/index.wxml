@@ -1,0 +1,28 @@
+<!--index.wxml-->
+<view class="container">
+ 
+ 
+
+<view class="section">
+  <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <view class="picker">
+      选择类型：{{array[index]}}
+    </view>
+  </picker>
+</view>
+ 
+<view class='explain'><button bindtap="skip" >点击查看使用说明</button></view>
+
+<button class='shareButton' bindtap="onShareAppMessage" open-type='share'>分享给朋友</button>
+
+<button bindtap="authorize"  open-type='getUserInfo'>帮助反馈</button>
+
+
+
+ 
+
+
+
+  
+
+</view>
